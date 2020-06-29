@@ -22,7 +22,7 @@ Created a series of scatter plots to showcase the following relationships:
 * Wind Speed (mph) vs. Latitude
 
 ![Temp](output_data/Images/city_lat_v_max_temp.png)
-!Humidity](output_data/Images/city_lat_v_hum.png)
+![Humidity](output_data/Images/city_lat_v_hum.png)
 ![Cloudiness](output_data/Images/city_lat_v_cloud.png)
 ![Wind Speed](output_data/Images/city_lat_v_wind.png)
 
@@ -41,6 +41,7 @@ Next ran linear regressions on each relationship, only this time separating them
 
 ![Temp Regression](output_data/Images/north_hem_city_lat_v_max_temp.png)
 ![Cloud Regression](output_data/Images/north_hem_city_lat_v_cloud.png)
+![Humidity Regression](output_data/Images/north_hem_city_lat_v_hum.png)
 ![Wind Regression](output_data/Images/south_hem_city_lat_v_wind.png)
 
 Final notebook:
