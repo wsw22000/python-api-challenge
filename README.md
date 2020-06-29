@@ -37,7 +37,7 @@ Next ran linear regressions on each relationship, only this time separating them
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-- Below are a few examples of final linear regression plots.
+Below are a few examples of final linear regression plots.
 
 ![Temp Regression](output_data/Images/north_hem_city_lat_v_max_temp.png)
 ![Cloud Regression](output_data/Images/north_hem_city_lat_v_cloud.png)
